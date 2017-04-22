@@ -1,0 +1,29 @@
+{
+  "name": "exercise11.5",
+  "version": "1.0.0",
+  "description": "ajax z pomocą jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "exe11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roboszyn/Exercise-11.5.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "RS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roboszyn/Exercise-11.5/issues"
+  },
+  "homepage": "https://github.com/roboszyn/Exercise-11.5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
